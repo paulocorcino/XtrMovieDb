@@ -1,0 +1,9 @@
+c:\users\paulo.corcino\documents\visual studio 2010\Projects\XtrMovieDb\XtrMovieDb\bin\Debug\XtrMovieDb.exe
+c:\users\paulo.corcino\documents\visual studio 2010\Projects\XtrMovieDb\XtrMovieDb\bin\Debug\XtrMovieDb.pdb
+c:\users\paulo.corcino\documents\visual studio 2010\Projects\XtrMovieDb\XtrMovieDb\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\paulo.corcino\documents\visual studio 2010\Projects\XtrMovieDb\XtrMovieDb\obj\x86\Debug\XtrMovieDb.Form1.resources
+c:\users\paulo.corcino\documents\visual studio 2010\Projects\XtrMovieDb\XtrMovieDb\obj\x86\Debug\XtrMovieDb.Properties.Resources.resources
+c:\users\paulo.corcino\documents\visual studio 2010\Projects\XtrMovieDb\XtrMovieDb\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\paulo.corcino\documents\visual studio 2010\Projects\XtrMovieDb\XtrMovieDb\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\paulo.corcino\documents\visual studio 2010\Projects\XtrMovieDb\XtrMovieDb\obj\x86\Debug\XtrMovieDb.exe
+c:\users\paulo.corcino\documents\visual studio 2010\Projects\XtrMovieDb\XtrMovieDb\obj\x86\Debug\XtrMovieDb.pdb
